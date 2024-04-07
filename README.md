@@ -12,11 +12,11 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Categorizing Phishing Emails | <a href="https://drive.google.com/file/d/1G_rqRH-XkeiX6g_qh2I3Vu0MQG7BsDLs/view?usp=sharing">Detection Lab</a>|
-| Manual Artifact Extraction | <a href="https://drive.google.com/file/d/1szb_95XFtZkIrvV9ygaShc-K1cbuS5yl/view?usp=sharing">Detection Lab</a>|
-| Attachment Analysis| <a href="https://drive.google.com/file/d/1l3v-raFDd-ag8QL7NoTh5DTBmHjH_7Ad/view?usp=sharing">Detection Lab</a>|
-| Phishing Response Capstone | <a href="https://drive.google.com/file/d/1Hcugnx-Deb7uVxTCPkOwsgoVgAcdz1fT/view?usp=sharing">Detection Lab</a>|
-| Threat Intel Platform: MISP | <a href="https://drive.google.com/file/d/1Bu0xPgkTy1644uuLY1J2XgEgiBMSxhMk/view?usp=sharing">Incident Response Lab
+| Categorizing Phishing Emails | <a href="https://github.com/ayalasecurity/Detection-Lab/blob/5e28d799643a4d82a7216ecdb3334afaff6a23b7/1.Categorizing%20Phishing%20Emails.md">Detection Lab</a>|
+| Manual Artifact Extraction | <a href="https://github.com/ayalasecurity/Detection-Lab/blob/5e28d799643a4d82a7216ecdb3334afaff6a23b7/2.Manual%20Artifact%20Extraction.md">Detection Lab</a>|
+| Attachment Analysis| <a href="https://github.com/ayalasecurity/Detection-Lab/blob/5e28d799643a4d82a7216ecdb3334afaff6a23b7/3.Attachment%20Analysis%20.md">Detection Lab</a>|
+| Phishing Response Capstone | <a href="https://github.com/ayalasecurity/Detection-Lab/blob/5e28d799643a4d82a7216ecdb3334afaff6a23b7/4.Phishing%20Challenge%20Capstone%20.md">Detection Lab</a>|
+| Threat Intel Platform: MISP | <a href="https://github.com/ayalasecurity/Detection-Lab/blob/5e28d799643a4d82a7216ecdb3334afaff6a23b7/5.Threat%20Intel.md">Incident Response Lab
 </a>|
 | Identifying File System | <a href="https://drive.google.com/file/d/1vDDYc17zmEj9bKoU_K0gmzsyBOMSj2R2/view?usp=sharing">Forensic Lab</a>|
 | Metadata and File Carving | <a href="https://drive.google.com/file/d/1B34rF80ziP2ZqOwE88AheFOhp2jwYFWq/view?usp=sharing">Forensic Lab</a>|
