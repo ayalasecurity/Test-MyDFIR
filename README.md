@@ -69,17 +69,76 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
     </a>
 </div>
 
-### Threat Intelligence Plataforms
+### Threat Intelligence Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <a href="https://www.misp-project.org/">
+        <img src="https://img.shields.io/badge/-MISP-19AAE3?&style=for-the-badge&logo=MISP&logoColor=white"/>
+    </a>
+    <a href="https://www.anomali.com/">
+        <img src="https://img.shields.io/badge/-Anomali-18559C?&style=for-the-badge&logo=Anomali&logoColor=Blue"/>
+    </a>
+    <a href="https://www.threatq.com/threat-intelligence-platform/">
+        <img src="https://img.shields.io/badge/-Threat Quotient-3372AC?&style=for-the-badge&logo=Threat Quotient&logoColor=white"/>
+    </a>
+    <a href="https://www.dtexsystems.com/">
+        <img src="https://img.shields.io/badge/-dtexsystems-A3A3A3?&style=for-the-badge&logo=dtexsystems&logoColor=Gray"/>
+    </a>
+    <a href="https://talosintelligence.com/">
+        <img src="https://img.shields.io/badge/-Cisco Talos-000000?&style=for-the-badge&logo=-Cisco Talos&logoColor=white"/>
+    </a>
+    <a href="https://virusshare.com/">
+        <img src="https://img.shields.io/badge/-virus share-FFFFFF?&style=for-the-badge&logo=virusshare&logoColor=Gray"/>
+    </a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://azure.microsoft.com/pt-br/products/microsoft-sentinel">
+        <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    </a>
+    <a href="https://www.splunk.com/en_us/training/free-courses/overview.html">
+        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    </a>
+    <a href="https://graylog.org/">
+        <img src="https://img.shields.io/badge/-graylog-F7743B?&style=for-the-badge&logo=graylog&logoColor=Orange"/>
+    </a>
+    <a href="https://www.microfocus.com/en-us/cyberres/secops/arcsight-esm">
+        <img src="https://img.shields.io/badge/-microfocus-3366FF?&style=for-the-badge&logo=microfocus&logoColor=Blue"/>
+    </a>
+    </a>
+    <a href="https://logrhythm.com/">
+        <img src="https://img.shields.io/badge/-logrhythm-8559D5?&style=for-the-badge&logo=logrhythm&logoColor=Purple"/>
+    </a>
+</div>
+
+### Forensics
+<div>
+    <a href="https://www.exterro.com/digital-forensics-software/ftk-imager">
+        <img src="https://img.shields.io/badge/-FTK Imager-000000?&style=for-the-badge&logo=ftk-imager&logoColor=white" />
+    </a>
+    <a href="https://www.kroll.com/en/insights/publications/cyber/kroll-artifact-parser-extractor-kape">
+        <img src="https://img.shields.io/badge/-KAPE-A8DFFA?&style=for-the-badge&logo=kape&logoColor=white" />
+    </a>
+    <a href="https://www.foxtonforensics.com/browser-history-capturer/">
+        <img src="https://img.shields.io/badge/-Browser History Capturer-262E45?&style=for-the-badge&logo=browser&logoColor=Blue"/>
+    </a>
+    <a href="https://www.foxtonforensics.com/browser-history-viewer/">
+        <img src="https://img.shields.io/badge/-Browser History Viewer-262E45?&style=for-the-badge&logo=browser-history-viewer&logoColor=Blue"/>
+    </a>
+    </a>
+    <a href="https://www.autopsy.com/download/">
+        <img src="https://img.shields.io/badge/-autopsy-ffffff?&style=for-the-badge&logo=autopsy&logoColor=Purple"/>
+    </a>
+    <a href="https://exiftool.org/">
+        <img src="https://img.shields.io/badge/-exiftool-0D1117?&style=for-the-badge&logo=exiftool&logoColor=Purple"/>
+    </a>
+    <a href="https://github.com/machn1k/Scalpel-2.0">
+        <img src="https://img.shields.io/badge/-Scalpel-222222?&style=for-the-badge&logo=Scalpel&logoColor=gray"/>
+    </a>
+    </a>
+    <a href="https://www.osforensics.com/tools/volatility-workbench.html">
+        <img src="https://img.shields.io/badge/-Volatility Workbench-246EB9?&style=for-the-badge&logo=volatility-workbench&logoColor=gray"/>
+    </a>
 </div>
 
 ## Certifications
@@ -94,10 +153,4 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 ## Projects
 - Detection Lab
-- SOC Automation Project
-
-<style>
-    .no-underline {
-        text-decoration: none;
-    }
-</style>
+- Incident Responder Lab
