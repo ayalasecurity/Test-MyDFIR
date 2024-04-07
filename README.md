@@ -1,5 +1,5 @@
 # Hello, I'm Luan Ayala
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey has led me through foundational IT courses, cybersecurity fundamentals, and hands-on experience in blue team defense. As I continue to learn and grow, I am excited to contribute to the ever-evolving field of cybersecurity.
@@ -31,18 +31,45 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Investigation of Phishing
 <div>
-    <a href="https://mxtoolbox.com">
-        <img src="https://img.shields.io/badge/-MxTools-1679A7?&style=for-the-badge&logo=MxTools&logoColor=white" />
+    <a href="https://mxtoolbox.com" class="no-underline">
+        <img src="https://img.shields.io/badge/-MxTools-C57A31?&style=for-the-badge&logo=MxTools&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://whois.domaintools.com">
+        <img src="https://img.shields.io/badge/-Whois-262B36?&style=for-the-badge&logo=Suricata&logoColor=white"/>
+    </a>
+    <a href="https://www.virustotal.com">
+        <img src="https://img.shields.io/badge/-Virustotal-0B4DDA?&style=for-the-badge&logo=Suricata&logoColor=white"/>
+    </a>
+    <a href="https://talosintelligence.com">
+        <img src="https://img.shields.io/badge/-Talos Intelligence-2E3135?&style=for-the-badge&logo=Suricata&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://urlhaus.abuse.ch/">
+        <img src="https://img.shields.io/badge/-URLhaus-A20300?&style=for-the-badge&logo=URLhaus&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://www.url2png.com/">
+        <img src="https://img.shields.io/badge/-Url2png-434A53?&style=for-the-badge&logo=Suricata&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://app.phishtool.com/submit">
+        <img src="https://img.shields.io/badge/-Phishtool-162A48?&style=for-the-badge&logo=Phishtool&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://www.phishtank.com/index.php">
+        <img src="https://img.shields.io/badge/-Phishtank-1579B2?&style=for-the-badge&logo=Phishtank&logoColor=white"/>
+    </a>
+    </a>
+    <a href="https://gchq.github.io/CyberChef">
+        <img src="https://img.shields.io/badge/-CyberChef-FFFFFF?&style=for-the-badge&logo=CyberChef&logoColor=white"/>
+    </a>
+    </a>
 </div>
 
-### Endpoint
+### Threat Intelligence Plataforms
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
@@ -68,3 +95,9 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+<style>
+    .no-underline {
+        text-decoration: none;
+    }
+</style>
