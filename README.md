@@ -142,15 +142,18 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://drive.google.com/file/d/1JGhWuPLxAEDpj1axCt8hPKC2ITBDzbKg/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Udemy-ffffff?&style=for-the-badge&logo=Udemy&logoColor=Purple" />
+<a href="https://drive.google.com/file/d/1DJHJUO5l_-ADEch17r7I24PwGVhfwEEp/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Coursera-00419E?&style=for-the-badge&logo=Coursera=white" />
+</a>
+<a href="https://drive.google.com/file/d/1KBVB0jgIgGvL1MU1apYNdGuDSr4ioR4g/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Security Blue Team-0E1342?&style=for-the-badge&logo=securityblue&logoColor=Blue" />
+</a>
 </div>
 
 ## Projects
 - Detection Lab
 - Incident Responder Lab
+- Forensic Lab
