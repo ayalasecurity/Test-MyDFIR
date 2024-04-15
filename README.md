@@ -28,6 +28,7 @@ My journey in I.T has led me to develop a passion for cybersecurity, and I am no
 | Volatility For Memory Analysis | <a href="https://drive.google.com/file/d/1wZUkzN3EiSRZr2OkBPfa9lsCmPPDUJHF/view?usp=sharing">Forensic Lab</a>|
 | Volatility 3 Workbench Analysis | <a href="https://drive.google.com/file/d/1VOn4SBVnq6fOaeTTNPyn-iXxOHP4sGt3/view?usp=sharing">Forensic Lab</a>|
 | Autopsy For Disk Analysis | <a href="https://drive.google.com/file/d/1KQW_6EdjCdVI-v0ppIRlXhm7G8-_PBou/view?usp=sharing">Forensic Lab</a>|
+| Splunk Investigation 1 | <a href="">Analysis Lab</a>|
 
 
 ## Tools
